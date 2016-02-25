@@ -1,5 +1,11 @@
 var curry = {};
 
+curry.pure = function(val) {
+    return function() {
+        return val;
+    };
+};
+
 curry.F2 = function(fun) {
     return function(a) {
         return function(b) {
