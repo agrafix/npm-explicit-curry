@@ -1,0 +1,25 @@
+{
+  "name": "npm-explicit-curry",
+  "version": "1.0.0",
+  "description": "Helpers to build curried functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrafix/npm-explicit-curry.git"
+  },
+  "keywords": [
+    "curry",
+    "functional",
+    "purescript",
+    "elm"
+  ],
+  "author": "Alexander Thiemann <mail@athiemann.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agrafix/npm-explicit-curry/issues"
+  },
+  "homepage": "https://github.com/agrafix/npm-explicit-curry#readme"
+}
