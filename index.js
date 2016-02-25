@@ -1,6 +1,6 @@
 var curry = {};
 
-curry.pure = function(val) {
+curry.effectful = function(val) {
     return function() {
         return val;
     };
