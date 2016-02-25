@@ -1,5 +1,5 @@
 {
-  "name": "npm-explicit-curry",
+  "name": "explicit-curry",
   "version": "1.0.0",
   "description": "Helpers to build curried functions",
   "main": "index.js",
